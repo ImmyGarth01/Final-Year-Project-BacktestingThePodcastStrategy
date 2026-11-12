@@ -26,6 +26,8 @@
 - **Pending:** One or more criteria still need investigating.
 - **Unsuitable:** At least one essential criterion is not satisfied.
 
+- Start with 2496 25 june 2022
+
 **Key:** ✅ Yes | ❌ No | ❓ Uncertain
 
 ## Additional Notes
