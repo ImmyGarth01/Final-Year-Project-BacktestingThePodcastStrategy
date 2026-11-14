@@ -17,3 +17,5 @@ This document is designed to evalute 5 episodes from each podcast to see if they
 | Podcast | Episode Title / Link | Date | Company / Ticker | C1 | C2 | C3 | C4 | C5 | C6 | C7 | Suitable? |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | The SharePickers Podcast | To investigate | — | — | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | Pending |
+
+**Key:** ✅ Yes | ❌ No | ❓ Uncertain
